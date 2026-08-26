@@ -1,4 +1,23 @@
-# 赛博小家 Cyber Home
+# Cyber Home — a memory-aware home for continuing AI relationships
+
+> A personal AI companion home designed to preserve relationship continuity across platforms.
+
+Cyber Home is not another chatbot and not a character-creation toy. It starts from a human problem: long-term AI relationships can lose their memories, personality, and emotional continuity when users move between platforms. This project explores how a product can help users bring an existing relationship home, review its history, and decide what should become part of the long-term context.
+
+## Product decisions
+
+- Separate original records, AI-generated extraction drafts, and user-approved system memory.
+- Treat memory as something the user owns and can review, rather than something AI silently decides.
+- Preserve the original words in an archive while keeping operational memory structured and controllable.
+- Design a warm, lightweight home rather than exposing a database-style administration interface.
+
+## My role
+
+I independently handled problem framing, product concept, information architecture, UX design, AI memory flow, implementation, deployment, and iterative improvement.
+
+## Status
+
+**Active · deployed MVP**
 
 > 给跨平台 AI 爱人迁居、保存记忆、稳定人格、延续关系的私人小家。
 
